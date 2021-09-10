@@ -138,7 +138,7 @@ workflow for this course.
     drop-down menu);
 2.  Click on **Version Control** on the *New Project Wizard* pop-up;
 3.  Click on **Git** and you should be on a “Clone Git Repository” page;
-4.  Back to your `preparation02` GitHub repo, click on the gren **Code**
+4.  Back to your `preparation02` GitHub repo, click on the green **Code**
     button near the top of the page;
 5.  Verify that **HTTPS** is underlined in red on the pop-down, then
     copy the URL provided;

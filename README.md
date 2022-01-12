@@ -15,9 +15,9 @@ As I said in the syllabus, [Happy Git with R](http://happygitwithr.com/)
 is by far the most complete resource for setting up Git and GitHub. If
 you would like to set up R, RStudio, Git, and GitHub on your own
 machine, I would recommend you use this text. Luckily for us, Git is
-already installed on the RStudio Server (and of course R and RStudio are
-available here too) so we will only need to focus on having our RStudio
-sessions communicate with GitHub.
+already installed on GVSU’s RStudio Workspace (and of course R and
+RStudio are available here too) so we will only need to focus on having
+our RStudio sessions communicate with GitHub.
 
 ### ☑️ Task 1: Fork this repo
 
@@ -31,8 +31,8 @@ After a few seconds, you should be taken to a new repo at
 
 ### ☑️ Task 2: Configure Git
 
-1.  Login to the [RStudio Server](https://rstudio.gvsu.edu/) using your
-    GVSU username and password,
+1.  Login to the [RStudio Workspace](https://rstudio.gvsu.edu/) using
+    your GVSU username and password,
 
 2.  Verify that you are in an RStudio session (i.e., not the RStudio
     Workbench Sessions/Project screen).
@@ -94,15 +94,15 @@ GitHub. Conveniently, `{usethis}` has a function for this!
     ```
 
     Note that you previously loaded `{usethis}` (using
-    `library(usethis)`) so you did not need to do this again . **Once
+    `library(usethis)`) so I did not ask you to do this again. **Once
     you load a package in your current RStudio session, you do not need
     to load it again.**
 
 2.  You will be directed to a “New personal access token” page on GitHub
     in your browser. Since I work on multiple machines (i.e., my
     personal laptop, my work laptop, my personal desktop, and the
-    RStudio Server), I like to name each PAT. For example, in the
-    **Note** text field, I called this token “GVSU RStudio Server”.
+    RStudio Workspace), I like to name each PAT. For example, in the
+    **Note** text field, I called this token “GVSU RStudio Workspace”.
 
     Most of the other options you will accept the default selections.
     However, you might want to change the **Expiration** date. A couple
@@ -221,14 +221,10 @@ Go back to your `preparation02` GitHub repo and verify that your
 `preparation02-file.R` file is here. **You can now close the PAT page
 tab.**
 
-In Blackboard, submit the link to your newly created
-`<username>/preparation02` GitHub repo as a *clickable link* for
-evidence of completing Preparation 2.
-
-Then find the issue titled “Day 3 Agenda” that your I created in the
-`community` repository. In this issue, post what was the muddiest thing
-from the Preparation. If someone else already mentioned what you thought
-was muddy, give them a “+ 1” 👍.
+There is nothing to submit for this Preparation. However, find the item
+that your instructor created in Slack. In this item, reply with what was
+the muddiest from the Preparation. If someone else already mentioned
+what you thought was muddy, give them a “+ 1” 👍.
 
 ## Attribution
 
